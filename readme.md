@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://www.python.org/static/img/psf-logo.png>
+<img src="https://www.python.org/static/img/psf-logo.png">
 
 
 ![Python](https://www.python.org/static/img/psf-logo.png)
