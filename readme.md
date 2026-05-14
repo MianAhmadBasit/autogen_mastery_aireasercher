@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![Python](https://www.python.org/static/img/psf-logo.png)
 ![AutoGen](https://img.shields.io/badge/Microsoft-AutoGen-orange?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI-Multi--Agent-red?style=for-the-badge)
 ![Research](https://img.shields.io/badge/Research-Papers-green?style=for-the-badge)
