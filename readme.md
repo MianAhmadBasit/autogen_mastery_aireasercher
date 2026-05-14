@@ -7,6 +7,9 @@
 
 <div align="center">
 
+<img src="https://www.python.org/static/img/psf-logo.png>
+
+
 ![Python](https://www.python.org/static/img/psf-logo.png)
 ![AutoGen](https://img.shields.io/badge/Microsoft-AutoGen-orange?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI-Multi--Agent-red?style=for-the-badge)
