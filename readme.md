@@ -1,7 +1,8 @@
+# https://scholaraiagent.streamlit.app/
 # 🚀 AutoGen Mastery — Enterprise-Grade Multi-Agent AI Research & Development
  
 <div align="center">
-https://scholaraiagent.streamlit.app/
+
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python)
 ![AutoGen](https://img.shields.io/badge/Microsoft-AutoGen-orange?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI-Multi--Agent-red?style=for-the-badge)
@@ -17,7 +18,7 @@ https://scholaraiagent.streamlit.app/
 ---
 
 ## 📑 Table of Contents
-    https://scholaraiagent.streamlit.app/
+   
 - [Executive Overview](#-executive-overview) 
 - [Quick Start](#-quick-start)
 - [System Architecture](#-system-architecture)
